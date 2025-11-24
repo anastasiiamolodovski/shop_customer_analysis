@@ -1,4 +1,4 @@
-# shop_customer_analysis
+# Customer Shopping Behavior Analysis
 🛒 Customer Shopping Behavior Analysis
 
 A complete end-to-end data analytics project exploring customer shopping patterns using Python, PostgreSQL, and Power BI.
